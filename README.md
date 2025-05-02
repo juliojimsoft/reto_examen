@@ -44,7 +44,6 @@ Se agregarán pronto los requisitos y pasos para ejecutar el frontend.
   - Maven 3.8+.
   - IDE como IntelliJ o VS Code.
 - Importa el proyecto backend como un proyecto Maven.
-- Restaura el backup `db_personal.bak` en tu instancia de SQL Server antes de ejecutar el backend.
 
 ---
 
